@@ -5,7 +5,7 @@ hide:
 
 # Welcome to my personal webpage!
 
-Here is a little bit info about me. For more, check this section: [About](/bio/){ .md-button }
+Here is a little bit info about me. For more, check this section: [About](https://hilalnizamoglu.github.io/HilalNizam/bio/){ .md-button }
 
 ## Research Interests
 
