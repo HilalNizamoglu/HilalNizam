@@ -3,10 +3,6 @@ hide:
   - navigation
 ---
 
-[Send :fontawesome-solid-paper-plane:](mailto:hilal.nizam.97@gmail.com){ .md-button }
-
-
-
 <!--/* Background image: applies to the "body" of the page */-->
 <!--/* background-repeat: if image should keep original size and repeat itself until full page is covered */-->
 <!--/* background-size and position to make image cover full page and don't stretch when changing the browser's window size */-->
