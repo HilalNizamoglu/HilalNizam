@@ -5,7 +5,7 @@ hide:
 
 # Welcome to my personal webpage!
 
-Here is a little bit info about me. For more, check this section: [About](https://julia-pfarr.github.io/workshop_webdesign/installing/){ .md-button }
+Here is a little bit info about me. For more, check this section: [About](/bio/){ .md-button }
 
 ## Research Interests
 
