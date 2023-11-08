@@ -1,0 +1,68 @@
+site_name: HilalNizam      
+theme:                  ##under theme goes everything design related
+    name: material   
+    palette:
+      scheme: default
+      primary: indigo
+      accent: deep orange  
+    logo: assets/images/hilal_pic.png
+    font: 
+      text: Montserrat
+      code: Roboto Mono 
+    language: en
+    features:
+    - navigation.indexes
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate 
+
+docs_dir: docs 
+nav:
+        - Home: index.md ##this is fixed! The .md file of the landing page needs to be named "index.md"
+        - About: bio.md
+        - Research interest: interest.md
+        - Publication: publications.md
+        - Contact: contact.md
+        - HTML: example.md
+
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - codehilite
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/hilalnizam5
+    - icon: fontawesome/brands/github
+      link: https://github.com/HilalNizamoglu
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hilal-nizamoglu-9b669210b/
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-3723-5837
+    - icon: material/email
+      link: mailto:hilal.nizam.97@gmail.com
+
