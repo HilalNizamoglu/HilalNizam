@@ -31,7 +31,7 @@ body {
 <p style="position: absolute; top: 25%; left: 50%; transform: translate(-50%, -50%); font-size:150%; color:black; text-align:center"> Here you can reach me</p>
 
 <!--/* One button in the middle of the page */-->
-<b><h3 style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); margin: auto; text-align:center"><button>[Get to know me](/bio/){ .md-button .md-button--primary }</button></h3></b>
+<b><h3 style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); margin: auto; text-align:center"><button>[Send an email :fontawesome-solid-paper-plane:](mailto:hilal.nizam.97@gmail.com){ .md-button .md-button--primary }</button></h3></b>
 
 <!--/* Buttons with social media icons next to each other */-->
 <b><h3 style="position: absolute; top: 45%; left: 35%; transform: translate(-50%, -50%); margin: auto; text-align:center"><button>[:fontawesome-brands-github:](https://github.com/HilalNizamoglu){ .md-button .md-button--primary }</button></h3></b>
@@ -41,5 +41,3 @@ body {
 <b><h3 style="position: absolute; top: 45%; left: 55%; transform: translate(-50%, -50%); margin: auto; text-align:center"><button>[:fontawesome-brands-orcid:](https://orcid.org/0000-0002-3723-5837){ .md-button .md-button--primary }</button></h3></b>
 
 <b><h3 style="position: absolute; top: 45%; left: 65%; transform: translate(-50%, -50%); margin: auto; text-align:center"><button>[:simple-twitter:](https://twitter.com/hilalnizam5){ .md-button .md-button--primary }</button></h3></b>
-
-<b><h3 style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); margin: auto; text-align:center"><button>[Send an email :fontawesome-solid-paper-plane:](mailto:hilal.nizam.97@gmail.com){ .md-button .md-button--primary }</button></h3></b>

@@ -24,7 +24,6 @@ nav:
         - Research interest: interest.md
         - Publication: publications.md
         - Contact: contact.md
-        - HTML: example.md
 
 markdown_extensions:
   - admonition
